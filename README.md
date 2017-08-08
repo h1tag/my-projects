@@ -1,5 +1,5 @@
-# projects-github-pages
-A list of my projects github pages URLs:
+# My Projects
+A list of my freecodecamp projects:
 
 - Demo Portfolio: 
     - demo: https://h1tag.github.io/portfolio
