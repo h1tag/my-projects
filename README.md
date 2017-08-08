@@ -2,8 +2,8 @@
 A list of my projects github pages URLs:
 
 - portfolio: 
-    -demo: https://h1tag.github.io/portfolio
-    -code: https://github.com/h1tag/portfolio
+    - demo: https://h1tag.github.io/portfolio
+    - code: https://github.com/h1tag/portfolio
     
 - random-quotes: 
   -demo: https://h1tag.github.io/random-quotes
