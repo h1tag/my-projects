@@ -13,7 +13,7 @@ A list of my freecodecamp projects:
   - demo: https://h1tag.github.io/wikipedia-viewer
   - code: https://github.com/h1tag/wikipedia-viewer
   
-- Twitch API Viewer: 
+- Twitch Viewer: 
   - demo: https://h1tag.github.io/twitch-api
   - code: https://github.com/h1tag/twitch-api
   
